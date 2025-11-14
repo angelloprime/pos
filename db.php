@@ -3,7 +3,7 @@
  * --- Archivo de Conexión: db.php ---
  */
 
-$servername = "181.64.136.100";        // O 127.0.0.1
+$servername = "181.64.136.100:3306";        // O 127.0.0.1
 $username = "angello_user";             // Tu usuario de MySQL
 $password = "NemesisPrime123@";    // Tu contraseña de MySQL
 $database = "sistema_agente";   // La base de datos que importamos
